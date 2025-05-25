@@ -1,0 +1,61 @@
+[
+    {
+        "image": "caini.jpg",
+        "objects": [
+            "dog",
+            "dog",
+            "dog",
+            "dog",
+            "dog",
+            "dog"
+        ]
+    },
+    {
+        "image": "img.png",
+        "objects": [
+            "person",
+            "person",
+            "person",
+            "person",
+            "sports ball",
+            "person"
+        ]
+    },
+    {
+        "image": "masini_de_curse.jpg",
+        "objects": [
+            "car",
+            "car",
+            "car",
+            "car",
+            "car"
+        ]
+    },
+    {
+        "image": "scaune.jpg",
+        "objects": [
+            "potted plant",
+            "chair",
+            "chair",
+            "potted plant",
+            "chair",
+            "potted plant",
+            "chair",
+            "dining table",
+            "chair",
+            "potted plant",
+            "potted plant",
+            "potted plant",
+            "vase",
+            "bowl",
+            "dining table"
+        ]
+    },
+    {
+        "image": "sports-5245098_640.jpg",
+        "objects": [
+            "person",
+            "sports ball"
+        ]
+    }
+]
